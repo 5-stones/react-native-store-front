@@ -1,6 +1,6 @@
 {
   "name": "@5stones/react-native-store-front",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Get the country code for ios from iTunes Connect",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
