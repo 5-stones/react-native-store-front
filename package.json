@@ -1,5 +1,5 @@
 {
-  "name": "react-native-store-front",
+  "name": "@5stones/react-native-store-front",
   "version": "0.1.1",
   "description": "Get the country code for ios from iTunes Connect",
   "main": "lib/commonjs/index",
@@ -34,13 +34,13 @@
     "ios",
     "android"
   ],
-  "repository": "https://github.com/Spicy-Sparks/react-native-store-front",
-  "author": "Spicy Sparks <support@spicysparks.com> (https://github.com/Spicy-Sparks)",
+  "repository": "https://github.com/5-stones/react-native-store-front",
+  "author": "Spicy Sparks <support@spicysparks.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Spicy-Sparks/react-native-store-front/issues"
+    "url": "https://github.com/5-stones/react-native-store-front/issues"
   },
-  "homepage": "https://github.com/Spicy-Sparks/react-native-store-front#readme",
+  "homepage": "https://github.com/5-stones/react-native-store-front#readme",
   "devDependencies": {
     "@commitlint/config-conventional": "^8.3.4",
     "@react-native-community/bob": "^0.16.2",
